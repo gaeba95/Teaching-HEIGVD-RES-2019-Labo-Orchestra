@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Corentin Basler",
+  "author": "Gaetan Bacso",
   "license": "ISC",
   "dependencies": {
     "moment": "^2.22.1",
